@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>速查 on YHL Blog</title>
+    <link>http://www.yhl.red/tags/%E9%80%9F%E6%9F%A5/</link>
+    <description>Recent content in 速查 on YHL Blog</description>
+    <generator>Hugo -- 0.123.7</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 17 Jun 2026 00:00:00 +0800</lastBuildDate>
+    <atom:link href="http://www.yhl.red/tags/%E9%80%9F%E6%9F%A5/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Docker 核心速查手册</title>
+      <link>http://www.yhl.red/posts/docker-core-cheatsheet/</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0800</pubDate>
+      <guid>http://www.yhl.red/posts/docker-core-cheatsheet/</guid>
+      <description>Docker 常用配置、镜像、容器生命周期、调试、网络、存储与 Compose 速查。</description>
+    </item>
+  </channel>
+</rss>

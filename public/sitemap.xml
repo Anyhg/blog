@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://www.yhl.red/categories/</loc>
+    <lastmod>2026-06-17T00:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://www.yhl.red/tags/docker/</loc>
+    <lastmod>2026-06-17T00:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://www.yhl.red/posts/docker-core-cheatsheet/</loc>
+    <lastmod>2026-06-17T00:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://www.yhl.red/posts/</loc>
+    <lastmod>2026-06-17T00:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://www.yhl.red/tags/</loc>
+    <lastmod>2026-06-17T00:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://www.yhl.red/</loc>
+    <lastmod>2026-06-17T00:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://www.yhl.red/tags/%E5%AE%B9%E5%99%A8/</loc>
+    <lastmod>2026-06-17T00:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://www.yhl.red/categories/%E6%8A%80%E6%9C%AF%E7%AC%94%E8%AE%B0/</loc>
+    <lastmod>2026-06-17T00:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://www.yhl.red/tags/%E9%80%9F%E6%9F%A5/</loc>
+    <lastmod>2026-06-17T00:00:00+08:00</lastmod>
+  </url>
+</urlset>

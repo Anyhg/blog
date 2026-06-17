@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on YHL Blog</title>
+    <link>http://www.yhl.red/tags/</link>
+    <description>Recent content in Tags on YHL Blog</description>
+    <generator>Hugo -- 0.123.7</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 17 Jun 2026 00:00:00 +0800</lastBuildDate>
+    <atom:link href="http://www.yhl.red/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Docker</title>
+      <link>http://www.yhl.red/tags/docker/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://www.yhl.red/tags/docker/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>容器</title>
+      <link>http://www.yhl.red/tags/%E5%AE%B9%E5%99%A8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://www.yhl.red/tags/%E5%AE%B9%E5%99%A8/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>速查</title>
+      <link>http://www.yhl.red/tags/%E9%80%9F%E6%9F%A5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://www.yhl.red/tags/%E9%80%9F%E6%9F%A5/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
